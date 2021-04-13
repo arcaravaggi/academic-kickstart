@@ -1,13 +1,36 @@
 ---
 title: "The distribution and trophic ecology of an introduced, insular population of red-necked wallabies (Notamacropus rufogriseus)"
-date: 2017-11-01
-publishDate: 2020-01-31T11:53:20.832741Z
-authors: ["Paige Havlin", "Anthony Caravaggi", "W. Ian Montgomery"]
-publication_types: ["2"]
-abstract: "Introduced non-native mammals can have negative impacts on native biota and it is important that their ecologies are quantified so that potential impacts can be understood. Red-necked wallabies (No..., Les mammifères non indigènes introduits peuvent avoir des effets négatifs sur le biote indigène, et il est important de quantifier leur écologie afin de comprendre ces impacts potentiels. Des walla..."
-featured: false
-publication: "*Canadian Journal of Zoology*"
-url_pdf: "https://www.nrcresearchpress.com/doi/abs/10.1139/cjz-2017-0090"
+
+authors: 
+- Paige Havlin
+- admin
+- W. Ian Montgomery
+
+date: "2017-11-01"
 doi: "10.1139/cjz-2017-0090"
+
+publication_types: ["2"]
+
+publication: "*Canadian Journal of Zoology*"
+publication_short: "*Can J Zool*"
+
+abstract: "Introduced non-native mammals can have negative impacts on native biota and it is important that their ecologies are quantified so that potential impacts can be understood. Red-necked wallabies (Notamacropus rufogriseus (Desmarest, 1817)) became established on the Isle of Man (IOM), an island with UNESCO Biosphere status, following their escape from zoological collections in the mid-1900s. We estimated wallaby circadial activity and population densities using camera trap surveys and random encounter models. Their range in the IOM was derived from public sightings sourced via social media. Wallaby diet and niche breadth were quantified via microscopic examination of faecal material and compared with those of the European hare (Lepus europaeus Pallas, 1778). The mean (±SE) population density was 26.4 ± 6.9 wallabies/km2, the mean (±SE) population size was 1742 ± 455 individuals, and the species’ range was 282 km2, comprising 49% of the island. Wallaby diets were dominated by grasses, sedges, and rushes; niche breadth of wallabies and hares (0.55 and 0.59, respectively) and overlap (0.60) suggest some potential for interspecific competition and (or) synergistic impacts on rare or vulnerable plant species. The IOM wallaby population is understudied and additional research is required to further describe population parameters, potential impacts on species of conservation interest, and direct and indirect economic costs and benefits."
+
+# Summary. An optional shortened abstract.
+summary: ""
+
+featured: false
+
+
+url_pdf: "https://www.nrcresearchpress.com/doi/abs/10.1139/cjz-2017-0090"
+
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
 ---
 
